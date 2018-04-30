@@ -1,0 +1,15 @@
+Modulo ethernet
+https://electronilab.co/tienda/modulo-ethernet-enc28j60/
+
+Modulo de sensor de ultrasonico 
+https://electronilab.co/tienda/sensor-de-distancia-de-ultrasonido-hc-sr04/
+
+Modulo gsm
+https://electronilab.co/tienda/modulo-celular-gsm-gprs-sim800l-con-antena/
+
+Modulo wifi
+Board de desarrollo con módulo ESP32 WiFi+Bluetooth BLE
+
+Arduino uno
+
+Fotoresistencia
